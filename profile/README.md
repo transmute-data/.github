@@ -20,7 +20,7 @@ Transmute Data is an AI research and engineering lab that works inside your team
 
 - **12 senior data scientists, AI engineers, and researchers**, averaging 15+ years each.
 - **Forward-deployed consulting**, by the hour or by SOW.
-- **Handover is in scope.** Agents, harnesses, documentation, runbooks, the evaluation set, and monitoring. You own the deliverables once they're paid for. We keep the tools and frameworks we brought with us.
+- **Handover is in scope.** Agents and harnesses built for you, documentation, runbooks, the evaluation set, and monitoring. You own the deliverables once they're paid for. We keep the tools and frameworks we brought with us.
 - **We never train on your data, and never on PHI.** We hold no HIPAA attestation of our own — we work inside your governed environment, under your BAA.
 
 ### What's here
@@ -31,4 +31,4 @@ What we publish openly will appear here. Client work stays in client repositorie
 
 [transmutedata.com](https://transmutedata.com) · Start with a 30-minute call on one problem you name.
 
-<sub>© 2026 Data Mages LLC d/b/a Transmute Data®</sub>
+<sub>© 2026 Data Mages LLC d/b/a Transmute® Data</sub>
